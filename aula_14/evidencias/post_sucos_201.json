@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "nome": "Vitamina Tropical",
+  "frutas": [
+    "banana",
+    "strawberry"
+  ],
+  "tem_gosto_de": "Tamarindo",
+  "total_calorias": 125,
+  "total_acucar": 22.6
+}
